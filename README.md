@@ -1,10 +1,10 @@
 # Lab8-Starter
 
-Name: Omar Kurdi
+Omar Kurdi
 
-Lab Partner: [partner name]
+Lab Partner: None
 
-GitHub Pages URL: [to be added after deploy]
+
 
 ## How are graceful degradation and service workers related?
 
