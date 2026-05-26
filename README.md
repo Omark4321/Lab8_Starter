@@ -2,9 +2,7 @@
 
 Omar Kurdi
 
-Lab Partner: None
-
-
+https://omark4321.github.io/Lab8_Starter/
 
 ## Screenshot
 
